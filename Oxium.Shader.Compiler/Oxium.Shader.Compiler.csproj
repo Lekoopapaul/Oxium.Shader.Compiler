@@ -7,7 +7,7 @@
 	  <RootNamespace>Oxium.Shader</RootNamespace>
 	  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 	  <AssemblyVersion>1.0.0</AssemblyVersion>
-	  <PackageVersion>1.0.2</PackageVersion>
+	  <PackageVersion>1.0.0</PackageVersion>
 	  <PackageTags>C# .NET DotNet Sharp Windows macOS Linux Bindings Wrapper Native</PackageTags>
 	  <Authors>Lekoopapaul</Authors>
 	  <Copyright>Copyright (c) 2025 Lekoopapaul</Copyright>
